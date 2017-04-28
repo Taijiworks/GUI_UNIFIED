@@ -5,7 +5,7 @@
 # Created: Tue Sep 13 16:01:38 2016
 #      by: PyQt4 UI code generator 4.9.6
 #
-# WARNING! All changes made in this file will be lost!
+
 import sys
 import PyQt4
 from PyQt4 import uic
